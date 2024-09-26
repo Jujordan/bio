@@ -1,3 +1,5 @@
-Hello My name is Justin Jordan
-I go to Michigan Technilogical University as a freshmen in the Computer Science discipline.
-I am studying Data Science and Statistics.
+Hello My name is Justin Jordan. 
+I go to Michigan Technological University as a freshmen in the Computer Science discipline.
+I am studying Data Science and Statistics as a minor but hopefully I'll end up with a double major.
+I want to do research.
+
